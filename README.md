@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-A responsive one-page portfolio website for Ubon Jacobs.
+A responsive one-page portfolio website for Jacobs Ekpenyong.
 
 ## Files
 - index.html — main website
